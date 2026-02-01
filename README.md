@@ -3,7 +3,7 @@
 This repository is used for assignment submissions.
 
 ## Submission Instructions
-1. Create a folder inside `submissions/` with your **full name**.
+1. Create a folder inside `submissions/` with your **full name-ID**.
 2. Inside your folder, add:
    - `src/` → all Verilog files
    - `docs/` → report / screenshots
